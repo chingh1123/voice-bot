@@ -12,7 +12,7 @@
 
 <div>
   <header>
-    <h1>CGH</h1>
+    <h1>🔊 ❕</h1>
     <img class="avatar" src="https://media.discordapp.net/attachments/851287450037911572/873031538051252294/Screenshot_1_voice.png?size=128" alt="Bot's Avatar!!">
     <h3>A 101% Emoji + soundboard + radio 24/7 Discord Bot!</h3>
     <p class="description">| 24/7 radio 🤸‍♂️ | Music 🎵 |</p>
