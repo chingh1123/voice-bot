@@ -37,10 +37,10 @@
 【Invite】- https://discord.com/api/oauth2/authorize?client_id=828118391486152774&permissions=3464256&scope=bot
   
   
-【Vote Top.gg】 -
+【Vote Top.gg】 - 
   
   
-【Vote Discord Bot list】 - 
+【Vote Discord Bot list】 - https://discordbotlist.com/bots/8juiidinzu
   
   
 【Vote DisBotList】 - 
