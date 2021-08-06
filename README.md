@@ -34,7 +34,7 @@
 · Invite and vote the bot today ! Let's listen this bot can have how many musics and sounds!
   
 -----------------------------------------------------------------------------------------------------------------------------
-【Invite】https://discord.com/api/oauth2/authorize?client_id=828118391486152774&permissions=3464256&scope=bot
+【Invite】- https://discord.com/api/oauth2/authorize?client_id=828118391486152774&permissions=3464256&scope=bot
   
   
 【Vote Top.gg】 -
