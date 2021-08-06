@@ -43,6 +43,6 @@
 【Vote Discord Bot list】 - https://discordbotlist.com/bots/8juiidinzu
   
   
-【Vote DisBotList】 - 
+【Vote DisBotList】 - https://disbotlist.xyz/bot/828118391486152774
 
 </html>
